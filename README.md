@@ -10,6 +10,8 @@ This repository contains beginner-level Python programs I created while learning
 - `strings.py`: Basic string operations
 - `numbers.py`: Simple number functions
 - `age_calculator.py`: Calculates the year you'll turn 100
+- `guess_the_number.py`: A game where the user guesses the number chosen by the computer
+
 
 ## 🚀 Why This Repo Exists
 
