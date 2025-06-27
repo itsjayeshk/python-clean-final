@@ -20,13 +20,13 @@ while True:
             elif guess > number_to_guess:
                 print("Too high. Try again.")
             else:
-                print(f" Correct! You guessed it in {attempts} attempts.")
+                print(" Correct! You guessed it in {attempts} attempts.")
 
                 if high_score is None or attempts < high_score:
                     high_score = attempts
-                    print(f" New High Score: {high_score} attempts!")
+                    print(" New High Score: {high_score} attempts!")
                 else:
-                    print(f"Current High Score: {high_score} attempts.")
+                    print("Current High Score: {high_score} attempts.")
         except ValueError:
             print(" Please enter a valid number!")
 

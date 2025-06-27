@@ -11,6 +11,8 @@ This repository contains beginner-level Python programs I created while learning
 - `numbers.py`: Simple number functions
 - `age_calculator.py`: Calculates the year you'll turn 100
 - `guess_the_number.py`: A game where the user guesses the number chosen by the computer
+- `guess_the_number_leaderboard.py`: Guessing game with high score tracking
+
 
 
 ## 🚀 Why This Repo Exists
