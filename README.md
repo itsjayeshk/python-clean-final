@@ -15,6 +15,7 @@ This repository contains beginner-level Python programs I created while learning
 - `love_calculator.py`: Love Calculator Game
 - `bmi_calculator.py`: Calculates the BMI of a person
 - `tip_calculator.py`: Calculates the tip percentage and splits the total amount of bill among the total number of people
+- `treasure_island.py`: A minigame where people can play just by inputing text
 
 
 
