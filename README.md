@@ -12,6 +12,9 @@ This repository contains beginner-level Python programs I created while learning
 - `age_calculator.py`: Calculates the year you'll turn 100
 - `guess_the_number.py`: A game where the user guesses the number chosen by the computer
 - `guess_the_number_leaderboard.py`: Guessing game with high score tracking
+- `love_calculator.py`: Love Calculator Game
+- `bmi_calculator.py`: Calculates the BMI of a person
+- `tip_calculator.py`: Calculates the tip percentage and splits the total amount of bill among the total number of people
 
 
 
